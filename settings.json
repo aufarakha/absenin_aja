@@ -3,7 +3,7 @@
   "API_PRESENCE_BASE": "https://gw-digits.telkomschools.sch.id/api/",
   "status": "on",
   "blacklist": [
-    "12345678",
+    "000000000",
     "541241028"
   ]
 }
