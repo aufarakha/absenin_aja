@@ -1,0 +1,5 @@
+{
+  "API_BASE": "https://gateway.ypt.or.id/",
+  "API_PRESENCE_BASE": "https://gw-digits.telkomschools.sch.id/api/",
+  "status": "on"
+}
