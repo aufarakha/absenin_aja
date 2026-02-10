@@ -1,5 +1,9 @@
 {
   "API_BASE": "https://gateway.ypt.or.id/",
   "API_PRESENCE_BASE": "https://gw-digits.telkomschools.sch.id/api/",
+  "blacklist": [
+    "12345678",
+    "541241028"
+  ]
   "status": "on"
 }
